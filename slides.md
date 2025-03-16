@@ -8,6 +8,7 @@ drawings:
   persist: false
 transition: slide-left
 title: 冷凍パンケーキ通販における送料設定戦略
+download: true
 fonts:
   # 標準テキスト用
   sans: 'Noto Sans JP'
